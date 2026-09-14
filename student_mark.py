@@ -11,6 +11,5 @@ else:
     result = "Fail"
 
 print("Student Name:", name)
-print("Total Mark:", int(total))
-print("Average Mark:", int(average))
+print("student average mark",average)
 print("Result:", result)
